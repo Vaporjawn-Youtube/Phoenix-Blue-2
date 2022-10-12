@@ -1,0 +1,20 @@
+{
+  "mode": "queue",
+  "replay": "",
+  "isRealTimeMode": false,
+  "outputOverlayFiles": true,
+  "queue": [
+    {
+      "path": "/Users/victorwilliams/Desktop/Phoenix Blue 2/Game_20190224T222316.slp",
+      "gameStartAt": "02/24/19 10:23 pm",
+      "startFrame": 4837,
+      "endFrame": 5565
+    },
+    {
+      "path": "/Users/victorwilliams/Desktop/Phoenix Blue 2/Game_20190224T223114.slp",
+      "gameStartAt": "02/24/19 10:31 pm",
+      "startFrame": 6894,
+      "endFrame": 7604
+    }
+  ]
+}
